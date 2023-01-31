@@ -5,6 +5,8 @@ The Jacksonville branch of AES Structural Engineers suffers from a lack of job a
 # Assumptions
 Improving website will increase job applications from prospect employees.
 
+Improving the website will give other company branches more recognition.
+
 A detailed plan is needed for the ITS team to implement and develop.
 
 Elicitation and feedback are needed for the success of the update.
@@ -13,7 +15,8 @@ The target demographic are prospective employees who are civil or structural eng
 
 The target demographic for people with those qualities are recent college graduates and people in the industry wishing to find a better job.
 
-The age demographic is 22 - 60. (Our newest hire is a older gentleman)
+The age demographic is 22 - 60. (The newest hire is a older gentleman)
 
-Improving the website will give other company branches more recognition.
+The project only consist of updating the website, not creating a new one.
+
 
