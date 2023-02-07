@@ -1,4 +1,4 @@
-# Introduction
+# 1. Introduction
 ## Business purpose
 
 ## Business scope
@@ -9,9 +9,9 @@
 
 ## Major stakeholders 
 
-# References
+# 2. References
 
-# Business management requirements
+# 3. Business management requirements
 ## Business environment
 
 ## Mission, goals, and objectives
@@ -20,7 +20,7 @@
 
 ## Information environment
 
-# Business operational requirements
+# 4. Business operational requirements
 ## Business processes
 
 ## Business operational policies and rules
@@ -32,4 +32,36 @@
 ## Business operational quality
 
 ## Business structure
+
+#5. Preliminary operational concept of proposed system
+
+## Preliminary operational concept
+
+### operational policies and constraints;
+
+### description of the proposed system;
+
+### modes of system operation;
+
+### user classes and other involved personnel; and
+
+### support environment.
+
+## Preliminary operational scenarios
+
+#6. Other preliminary life-cycle concepts
+
+## Preliminary acquisition concept
+
+## Preliminary deployment concept
+
+## Preliminary support concept
+
+## Preliminary retirement concept
+
+#7. Project Constraints
+
+#8. Appendix
+
+## Acronyms and abbreviations
 
