@@ -58,8 +58,10 @@ Dominic ____
 # 5. Preliminary operational concept of proposed system
 
 ## Preliminary operational concept
+Each feature will involve similar processes. The development team must use
 
 ### operational policies and constraints;
+The proposed system is an update to the website that will change content in some webpages, make new ones, and completely change some webpages.  
 
 ### description of the proposed system;
 
@@ -74,6 +76,7 @@ Dominic ____
 # 6. Other preliminary life-cycle concepts
 
 ## Preliminary acquisition concept
+The solution would be acquired as an update to the website that would be seamless swap out the old webpages updated one, the new webpages will be connected by adding navigation and redirects to include those websites in the directory path, while archiving the old design, code, and other unused assets. The ITS will be responsible for implementing the final product and archiving the legacy design and forms. The product will be verified by the company executive leadership or by a senior employee of the company. 
 
 ## Preliminary deployment concept
 
