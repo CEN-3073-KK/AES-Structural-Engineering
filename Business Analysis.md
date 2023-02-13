@@ -73,18 +73,23 @@ Dominic ____
 # 5. Preliminary operational concept of proposed system
 
 ## Preliminary operational concept
-Each feature will involve similar processes. The development team must use
+
 
 ### operational policies and constraints;
-The proposed system is an update to the website that will change content in some webpages, make new ones, and completely change some webpages.  
+Each feature will involve similar processes. The development team must use the current language that the website is using to update the webpages and content.
+
 
 ### description of the proposed system;
+The proposed system is an update to the website that will update the career and application page with more informational content, designs, and improved paths to webpages. The proposed system will update the content about specific company branches and will consolodate it all into dedicated webpages.
 
 ### modes of system operation;
+The system is being used to support the mission of the company by increasing the amount of customers and job applicants by presenting the information about the company is a better, cohesive design.
 
-### user classes and other involved personnel; and
+### user classes and other involved personnel
+The user classes involved would be the customer or visitor which would be a guest on the website to contact for services or see what the company has to offer, the ITS maintenance team are the personnel involved in maintaining the website and servers, the project managers and leadership are the personnel involved in hiring the job applicant and deciding to contact them based on the system emailing them the prospective employee’s application.
 
 ### support environment.
+The support that the system will receive is the human resource department answering email, texts, calls from users, and messages and notifications from the system.
 
 ## Preliminary operational scenarios
 
@@ -99,7 +104,7 @@ The solution would be acquired as an update to the website that would be seamles
 The support that is necessary for the product after release would be from the ITS and human resources teams to maintain, preserve, and run the webpage. The ITS would be providing maintenance by maintaining the webpages and website by maintaining the server running the webpage and updating the content and items. ITS would also be training human resources to use the new system. Human resources will be operating the page, receiving emails, and calls from the system by the users. 
 
 ## Preliminary retirement concept
-To retire the system is to either update to a better system or completely change the system altogether. When being retired, the designs would be archived and logged as design assets. The systems will redirect to the updated or new webpage.
+To retire the system is to either update to a better system or completely change the system altogether. When being retired, the designs would be archived and logged as design assets. The systems will redirect their links to the updated or new webpages.
 
 
 # 7. Project Constraints
