@@ -12,8 +12,9 @@ The external entities involved are the in-state clients, clients that are out of
 
 ## Definitions 
 
-## Major stakeholders 
-The computer security firm
+## Major stakeholders
+
+The computer security firm,
 The local, state, inter-state , and national government
 The main branch of the company
 The Jacksonville branch
@@ -25,12 +26,13 @@ Businesses and organizations
 
 
 # 2. References
-Kathleen Kostage
-Collin Kostage
-Jude Kostage
-Matt Kaufman
-https://www.aespj.com
-Dominic ____
+
+Kathleen Kostage,
+Collin Kostage,
+Jude Kostage,
+Matt Kaufman,
+https://www.aespj.com ,
+Dominic ____,
 
 
 # 3. Business management requirements
