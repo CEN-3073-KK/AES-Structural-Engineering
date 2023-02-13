@@ -6,32 +6,31 @@ The Jacksonville branch for Atlantic Engineering Services needs more employees t
 The business domain that Atlantic Engineering Services is considered as is a structural engineering firm. The company inspects buildings for to see if the structural code it up to date and to see if there is no damage or violation, they restore buldings, climb buildings, and structurally design them as well as inspect process. What part of their business is being changed is how they represent themselves to customers and potential employees which affect their work load, manpower, and their reputation up-front. This would also affect the work load of human resources and the ITS team.
 
 ## Overview
-The major internal division are the two branches, the main branch is in Pittsburg, then other branch is in Jacksonville, FL and an empty open store front in Morgantown, WV. The Pittsburg and Jacksonville branch work with each other on projects while working on projects individually. The areas that each branch operates are different because of the locations and the empty open store front exists to do projects in that area. 
 
-The external entities involved are the in-state clients, clients that are out of state, the network and computer security firm that secures their data, the architects and other engineers, contractors, and business representatives.
+The internal Divisions are as Follows:
+a.	Principals : The principals are responsible for solicitating new projects and overall management of the company.
+b.	Senior Project Engineers: Senior engineers also solicit new projects and are responsible for overseeing the project engineers.
+c.	Project Engineer: Project engineers will manage and develop projects.
+d.	Staff Engineers: Staff engineers handle the details and design of the project with the supervision of the Project engineers.
+e.	Technicians: Technicians model the projects laying the design provided by the engineers.
+
+
 
 ## Definitions 
 
 ## Major stakeholders
 
-The computer security firm
+The stake holders are as follows:
 
-The local, state, inter-state , and national government
+Principals. The principals manage the overall company and are primarily responsible for working with the marketing director to expand our business opportunities.
 
-The main branch of the company
+Senior Associates.  The senior associates oversee the project managers and also are responsible for marketing for new business.
 
-The Jacksonville branch
+Associates.  The associates typically manage the work flow of the projects.  Although, they work closely with upper management to expand the business.
 
-ITS department
+Employees (staff engineers and Technicians).  These employees although not responsible for business expansion are encourage to bring ideas and potential clients to the upper management.  
 
-Human Resources
-
-Contractors
-
-Architects, and other engineers
-
-Businesses and organizations
-
+All employees are encouraged to expand their Horizons.  Marketing, pursuit of new projects and clients is not soley the responsibility of senior management.  Younger employees are encourage to help in business development.
 
 # 2. References
 
@@ -51,10 +50,12 @@ Dominic ____
 # 3. Business management requirements
 ## Business environment
 
+The external factors depend on the economy.  The company is diversified to Healthcare, schools, housing, military, government, commercial, historic preservation, forensics and marine work.  Each sector can be affected by the state of the overall economy.  I.e. when interest rates go up new building construction tends to go down, but government work including schools goes up.
+
 ## Mission, goals, and objectives
-
+Continue to keep our work diversified and expanded to grow the business.
 ## Business model
-
+Continually market new clients, open new offices, partner with architects and contractors.
 ## Information environment
 
 # 4. Business operational requirements
