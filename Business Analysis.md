@@ -8,10 +8,15 @@ The business domain that Atlantic Engineering Services is considered as is a str
 ## Overview
 
 The internal Divisions are as Follows:
+
 a.	Principals : The principals are responsible for solicitating new projects and overall management of the company.
+
 b.	Senior Project Engineers: Senior engineers also solicit new projects and are responsible for overseeing the project engineers.
+
 c.	Project Engineer: Project engineers will manage and develop projects.
+
 d.	Staff Engineers: Staff engineers handle the details and design of the project with the supervision of the Project engineers.
+
 e.	Technicians: Technicians model the projects laying the design provided by the engineers.
 
 
@@ -34,51 +39,71 @@ All employees are encouraged to expand their Horizons.  Marketing, pursuit of ne
 
 # 2. References
 
-Kathleen Kostage
+**Company represenatives (sponsor):**
 
-Collin Kostage
+Kathleen Kostage
 
 Jude Kostage
 
 Matt Kaufman
 
-https://www.aespj.com
+**Elicitation:**
 
-Dominic ____
+Collin Kostage
 
+Dominic Kessell
+
+**Websites:**
+
+https://www.aespj.com 
+
+https://www.aespj.com/careers
 
 # 3. Business management requirements
 ## Business environment
 
-The external factors depend on the economy.  The company is diversified to Healthcare, schools, housing, military, government, commercial, historic preservation, forensics and marine work.  Each sector can be affected by the state of the overall economy.  I.e. when interest rates go up new building construction tends to go down, but government work including schools goes up.
+i.	External environmental factors include growth initiatives and financial stability of owners and business entities who have significant property that exist within our built environment. These companies are most notably within the healthcare, higher educational, and commercial real estate industries. Directly in relation to AES, many times our business comes directly from architecture and other A/E/C firms that need structural support for their projects. These project invitations are also directly related to the external environmental factors created by the owners and businesses who need architectural support for new or existing facilities. Changes to our website and online presence should be targeted to communicate our experience and proficiency within these industries and client groups. 
+
+ii.	Internal environmental factors include, but are not limited to current firm workload, the capacity and capabilities of our professional engineers, state licensure, office locations, employee health/status, desire for hiring new employees.
 
 ## Mission, goals, and objectives
-Continue to keep our work diversified and expanded to grow the business.
+i.	Specifically regarding the proposed system of adding new capabilities to drive job applicants, results will be to drive new applicants for potential hiring positions at AES, for both the Pittsburgh and Jacksonville locations. Applicant information should be obtained to respond appropriately to them. A goal of three applicants each month will be set through organic inbound methods, while higher standards may be set when hiring campaigns are underway and other methods are being paired with the website.
 ## Business model
-Continually market new clients, open new offices, partner with architects and contractors.
+i.	Improvements to the website to drive job applicants should closely adhere to the purpose of our firm, which is to provide structural engineering services. Attracting applicants specifically within the Western Pennsylvania and Northern Florida regions is ideal, focused on the city regions of Pittsburgh and Jacksonville, respectively. However, applicants from other regions will not be turned away, though they will be expected to relocated to our office locations.
+
+ii.	Hiring information, especially when there is a hiring campaign underway, will also be communicated through LinkedIn, and also dispersed through potential hiring consultants such as headhunters, etc.
+
 ## Information environment
 
 # 4. Business operational requirements
 ## Business processes
+a.	System interfaces should communicate what is present in our hiring brochures (benefits, etc.) in an ergonomic and attractive manner to potential applicants.
+
+b.	Company culture should be transparently shown as well to attract desired applicants.
 
 ## Business operational policies and rules
+a.	AES has a Marketing Manual, a nearly-completed Employee Manual, but no Policies and Procedures manual.
+
+b.	In this case, deciding logical propositions for the business processes should be coordinated through the Marketing Director at AES regarding any updates to the website.
 
 ## Business operational constraints
+a.	Conditions to be imposed are filtering and recording new applicants in real time, storing their answers in a secure software platform, work in coordination with the existing system processes and structure, and every occurrence of the process should be monitored and recorded by the Marketing Department.
 
 ## Business operational modes
+a.	The business operation should be able to proceed independently and securely. The product should allow our staff to check in periodically for responses. The page should be able to receive any amount of applicants at any given time, and support significant traffic.
 
 ## Business operational quality
+a.	The business operation should have a high quality in appearance and design, and be ergonomic to the user. Putting the process in place has a fairly high urgency.
 
 ## Business structure
+a.	The structures relevant can be found for both Positions and Locations on https://www.aespj.com/careers, and the structure for the application form, which is also available on the same page.
 
 # 5. Preliminary operational concept of proposed system
 
 ## Preliminary operational concept
 
-
 ### operational policies and constraints;
 Each feature will involve similar processes. The development team must use the current language that the website is using to update the webpages and content.
-
 
 ### description of the proposed system;
 The proposed system is an update to the website that will update the career and application page with more informational content, designs, and improved paths to webpages. The proposed system will update the content about specific company branches and will consolodate it all into dedicated webpages.
@@ -106,7 +131,6 @@ The support that is necessary for the product after release would be from the IT
 
 ## Preliminary retirement concept
 To retire the system is to either update to a better system or completely change the system altogether. When being retired, the designs would be archived and logged as design assets. The systems will redirect their links to the updated or new webpages.
-
 
 # 7. Project Constraints
 The project shall consist of a development team of no more than 3 members. The project implementation should take no more than a month and should be finished with the final product. 
