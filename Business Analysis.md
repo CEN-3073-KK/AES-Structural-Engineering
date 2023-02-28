@@ -133,7 +133,13 @@ The support that is necessary for the product after release would be from the IT
 To retire the system is to either update to a better system or completely change the system altogether. When being retired, the designs would be archived and logged as design assets. The systems will redirect their links to the updated or new webpages.
 
 # 7. Project Constraints
-The project shall consist of a development team of no more than 3 members. The project implementation should take no more than a month and should be finished with the final product. 
+The project shall consist of a development team of no more than 3 members. 
+
+The project implementation should take no more than a month and should be finished with the final product. 
+
+All updated website pages must conform to the original website brand design.
+
+The website changes must not effect the non-product websites. Website edits and updates should not negatively website user analyitics.
 
 # 8. Appendix
 
