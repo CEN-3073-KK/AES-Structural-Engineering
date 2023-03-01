@@ -1,3 +1,16 @@
+# Description
+The aespj.com website update is an improvement on the careers and application pages. The updated career page will provide further information about the company and position that prospective employees will apreciate and value. Meanwhile, the improved application pages will provide further optimal information about the prospective employee and their qualifications. 
+
+The primary bussiness objectives of this project are:
+
+Increase amount of job applicants that are prospective employees
+
+further provide detailed information about job applicants
+
+Increase man power to take on more jobs and projects.
+
+The aespj.com website update will improve hiring strategies that include application analytics, advertising, showing requirements to be qualified,  
+
 # 1. Introduction
 ## Business purpose
 The Jacksonville branch for Atlantic Engineering Services needs more employees to take on more projects and to better divide up the work load. The issue is that there is a low amount of job applicants for the company to pick from. The company website does not entice or attract any prospective employees because of a lack of detail and content in the career page and about the branches of the company. The proposed system will improve the content and presentation of the career page and about the branches of the company.
@@ -29,11 +42,16 @@ The stake holders are as follows:
 
 Principals. The principals manage the overall company and are primarily responsible for working with the marketing director to expand our business opportunities.
 
+Product Owner:
 Senior Associates.  The senior associates oversee the project managers and also are responsible for marketing for new business.
 
+Product Manager:
 Associates.  The associates typically manage the work flow of the projects.  Although, they work closely with upper management to expand the business.
 
-Employees (staff engineers and Technicians).  These employees although not responsible for business expansion are encourage to bring ideas and potential clients to the upper management.  
+Employees (staff engineers and Technicians).  These employees although not responsible for business expansion are encourage to bring ideas and potential clients to the upper management. 
+
+User:
+Prospective employees. The people who qualified to work at the company and are looking for a job.
 
 All employees are encouraged to expand their Horizons.  Marketing, pursuit of new projects and clients is not soley the responsibility of senior management.  Younger employees are encourage to help in business development.
 
