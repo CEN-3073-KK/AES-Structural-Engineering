@@ -140,10 +140,12 @@ The proposed system is an update to the website that will update the career and 
 
 ### modes of system operation;
 
-The mode of system operation is Agile.
+The company is a firm that makes projects and produces products in the form of structural blueprints and consultations.
+
+The software product's mode will be for marketing and  
 
 ### user classes and other involved personnel
-The prospective employees will be providing the data in the improved application and the employers can judge canidates and accept or reject their application with an email back to the canidate. Human resources will be answering and fowarding emails, texts, calls from users, and message and modifications from the system. 
+The prospective employees will be providing the data in the improved application. The employers and marketing can judge canidates and accept or reject their application with an email back to the canidate.Human resources will be answering and fowarding emails, texts, calls from users, and message and modifications from the system. 
 
 ### support environment.
 The support that the system will receive is the human resource department answering email, texts, calls from users, and messages and notifications from the system.
