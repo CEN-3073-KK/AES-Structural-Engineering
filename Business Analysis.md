@@ -9,7 +9,7 @@ further provide detailed information about job applicants
 
 Increase man power to take on more jobs and projects.
 
-The aespj.com website update will improve hiring strategies that include application analytics, advertising, showing requirements to be qualified,  
+The aespj.com website update will improve hiring strategies that include application analytics, advertising, and showing requirements to be qualified for the position. 
 
 # 1. Introduction
 ## Business purpose
