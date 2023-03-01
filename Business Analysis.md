@@ -32,9 +32,19 @@ d.	Staff Engineers: Staff engineers handle the details and design of the project
 
 e.	Technicians: Technicians model the projects laying the design provided by the engineers.
 
-
-
 ## Definitions 
+
+* Structural engineering: The branch of engineering that deals with the design and analysis of structures.
+
+* Civil engineering: The branch of engineering that deals with the design, construction, and maintenance of the built environment.
+
+* Construction engineering: The branch of engineering that focuses on the planning, design, and management of construction projects.
+
+* Architecture: The art and science of designing buildings and other structures.
+
+* Building codes: Standards and regulations that specify the minimum requirements for the design and construction of buildings and other structures.
+
+* job sites: construction sites or structures that need to be inspected for building code review and consultation.
 
 ## Major stakeholders
 
@@ -142,10 +152,14 @@ The proposed system is an update to the website that will update the career and 
 
 The company is a firm that makes projects and produces products in the form of structural blueprints and consultations.
 
-The software product's mode will be for marketing and  
+The software product's mode will be for marketing, recritement, and user service.
 
 ### user classes and other involved personnel
-The prospective employees will be providing the data in the improved application. The employers and marketing can judge canidates and accept or reject their application with an email back to the canidate.Human resources will be answering and fowarding emails, texts, calls from users, and message and modifications from the system. 
+The prospective employees will be providing the data in the improved application. 
+
+The employers and marketing can judge canidates and accept or reject their application with an email back to the canidate.
+
+Human resources will be answering and fowarding emails, texts, calls from users, and message and modifications from the system. 
 
 ### support environment.
 The support that the system will receive is the human resource department answering email, texts, calls from users, and messages and notifications from the system.
