@@ -3,11 +3,11 @@ The aespj.com website update is an improvement on the careers and application pa
 
 The primary bussiness objectives of this project are:
 
-Increase amount of job applicants that are prospective employees
+* Increase amount of job applicants that are prospective employees
 
-further provide detailed information about job applicants
+* Further provide detailed information about job applicants
 
-Increase man power to take on more jobs and projects.
+* Increase man power to take on more jobs and projects.
 
 The aespj.com website update will improve hiring strategies that include application analytics, advertising, and showing requirements to be qualified for the position. 
 
@@ -40,42 +40,47 @@ e.	Technicians: Technicians model the projects laying the design provided by the
 
 The stake holders are as follows:
 
-Principals. The principals manage the overall company and are primarily responsible for working with the marketing director to expand our business opportunities.
+Product Owner / C-suite:
 
-Product Owner:
-Senior Associates.  The senior associates oversee the project managers and also are responsible for marketing for new business.
+* Principals. The principals manage the overall company and are primarily responsible for working with the marketing director to expand our business opportunities.
+
+* Senior Associates.  The senior associates oversee the project managers and also are responsible for marketing for new business.
 
 Product Manager:
-Associates.  The associates typically manage the work flow of the projects.  Although, they work closely with upper management to expand the business.
 
-Employees (staff engineers and Technicians).  These employees although not responsible for business expansion are encourage to bring ideas and potential clients to the upper management. 
+* Associates.  The associates typically manage the work flow of the projects.  Although, they work closely with upper management to expand the business.
 
-User:
-Prospective employees. The people who qualified to work at the company and are looking for a job.
+Employee:
+
+* Employees (staff engineers and Technicians).  These employees although not responsible for business expansion are encourage to bring ideas and potential clients to the upper management. 
 
 All employees are encouraged to expand their Horizons.  Marketing, pursuit of new projects and clients is not soley the responsibility of senior management.  Younger employees are encourage to help in business development.
+
+User:
+
+* Prospective employees. The people who qualified to work at the company and are looking for a job.
 
 # 2. References
 
 **Company represenatives (sponsor):**
 
-Kathleen Kostage
+* Kathleen Kostage
 
-Jude Kostage
+* Jude Kostage
 
-Matt Kaufman
+* Matt Kaufman
 
 **Elicitation:**
 
-Collin Kostage
+* Collin Kostage
 
-Dominic Kessell
+* Dominic Kessell
 
 **Websites:**
 
-https://www.aespj.com 
+* https://www.aespj.com 
 
-https://www.aespj.com/careers
+* https://www.aespj.com/careers
 
 # 3. Business management requirements
 ## Business environment
@@ -92,6 +97,11 @@ i.	Improvements to the website to drive job applicants should closely adhere to 
 ii.	Hiring information, especially when there is a hiring campaign underway, will also be communicated through LinkedIn, and also dispersed through potential hiring consultants such as headhunters, etc.
 
 ## Information environment
+
+AES uses Squarespace to host the website content and all of our portfolio that we want to share online. Additional content is stored within several systems in-house at AES, including Deltek Vantagepoint, Microsoft 365 Office, and local/cloud storage through a server where our company stores both technical business information. This information is exported when the website needs to be adapted or altered, or when more information needs to be added.
+
+ 
+AES doesn’t track employees in any way, though they are required to input time and expenses for project and marketing related activities within Deltek Vantagepoint.
 
 # 4. Business operational requirements
 ## Business processes
@@ -121,21 +131,30 @@ a.	The structures relevant can be found for both Positions and Locations on http
 ## Preliminary operational concept
 
 ### operational policies and constraints;
-Each feature will involve similar processes. The development team must use the current language that the website is using to update the webpages and content.
+The career page will allow users to access an application page based on the open positions shown. The career page will have updated content to entice users, provide an application page link to unique application based on the open position selected, and redirect back to the career page. The prospective employees will be providing the data in the improved application and the employers can judge canidates 50% faster than before the improvement. 
 
 ### description of the proposed system;
+The career page will have updated content to entice users, provide an application page link to unique application based on the open position selected, and redirect back to the career page.
+
 The proposed system is an update to the website that will update the career and application page with more informational content, designs, and improved paths to webpages. The proposed system will update the content about specific company branches and will consolodate it all into dedicated webpages.
 
 ### modes of system operation;
-The system is being used to support the mission of the company by increasing the amount of customers and job applicants by presenting the information about the company is a better, cohesive design.
+
+The mode of system operation is Agile.
 
 ### user classes and other involved personnel
-The user classes involved would be the customer or visitor which would be a guest on the website to contact for services or see what the company has to offer, the ITS maintenance team are the personnel involved in maintaining the website and servers, the project managers and leadership are the personnel involved in hiring the job applicant and deciding to contact them based on the system emailing them the prospective employee’s application.
+The prospective employees will be providing the data in the improved application and the employers can judge canidates and accept or reject their application with an email back to the canidate. Human resources will be answering and fowarding emails, texts, calls from users, and message and modifications from the system. 
 
 ### support environment.
 The support that the system will receive is the human resource department answering email, texts, calls from users, and messages and notifications from the system.
 
+Employers can judge canidates and accept or reject their application with an email back to the canidate.
+
 ## Preliminary operational scenarios
+
+Senario 1: User clicks on a link to go to the application for the open drafting position, the user fill out their contact information, general application questions, and applications questions unique to the role of the open job position.
+
+Senario 2:
 
 # 6. Other preliminary life-cycle concepts
 
