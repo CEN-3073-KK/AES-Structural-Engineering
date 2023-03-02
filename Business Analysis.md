@@ -129,7 +129,7 @@ a.	The structures relevant can be found for both Positions and Locations on http
 ## Preliminary operational concept
 
 ### operational policies and constraints;
-The career page will allow users to access an application page based on the open positions shown. The career page will have updated content to entice users, provide an application page link to unique application based on the open position selected, and redirect back to the career page. The prospective employees will be providing the data in the improved application and the employers can judge canidates 50% faster than before the improvement. 
+The career page will allow users to access an application page based on the open positions shown. 
 
 ### description of the proposed system;
 The career page will have updated content to entice users, provide an application page link to unique application based on the open position selected, and redirect back to the career page.
@@ -163,10 +163,14 @@ Senario 2:
 # 6. Other preliminary life-cycle concepts
 
 ## Preliminary acquisition concept
+new:
+
 The solution would be acquired as an update to the website that would be seamless swap out the old webpages updated one, the new webpages will be connected by adding navigation and redirects to include those websites in the directory path, while archiving the old design, code, and other unused assets. The ITS will be responsible for implementing the final product and archiving the legacy design and forms. The product will be verified by the company executive leadership or by a senior employee of the company. 
 
 ## Preliminary deployment concept
+The product manager will verify 
 
+The solution would be acquired as an update to the website that would be seamless swap out the old webpages updated one, the new webpages will be connected by adding navigation and redirects to include those websites in the directory path, while archiving the old design, code, and other unused assets. The ITS will be responsible for implementing the final product and archiving the legacy design and forms. The product will be verified by the company executive leadership or by a senior employee of the company. 
 ## Preliminary support concept
 The support that is necessary for the product after release would be from the ITS and human resources teams to maintain, preserve, and run the webpage. The ITS would be providing maintenance by maintaining the webpages and website by maintaining the server running the webpage and updating the content and items. ITS would also be training human resources to use the new system. Human resources will be operating the page, receiving emails, and calls from the system by the users. 
 
@@ -178,9 +182,6 @@ The project shall consist of a development team of no more than 3 members.
 
 The project implementation should take no more than a month and should be finished with the final product. 
 
-All updated website pages must conform to the original website brand design.
-
-The website changes must not effect the non-product websites. Website edits and updates should not negatively website user analyitics.
 
 # 8. Appendix
 
