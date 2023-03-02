@@ -138,9 +138,9 @@ The proposed system is an update to the website that will update the career and 
 
 ### modes of system operation;
 
-The company is a firm that makes projects and produces products in the form of structural blueprints and consultations.
+The company is a firm that makes projects and produces products in the form of structural blueprints and consultations. Their business model are development and consultation serivces. 
 
-The software product's mode will be for marketing, recritement, and user service.
+The software product's mode will be for marketing and user service.
 
 ### user classes and other involved personnel
 The prospective employees will be providing the data in the improved application. 
@@ -156,19 +156,20 @@ Employers can judge canidates and accept or reject their application with an ema
 
 ## Preliminary operational scenarios
 
-Senario 1: User clicks on a link to go to the application for the open drafting position, the user fill out their contact information, general application questions, and applications questions unique to the role of the open job position.
+Senario 1: User clicks on a link to go to the application for the open drafting position, the user fill out their contact information, general application questions, and applications questions unique to the role of the open job position, the user submits the application, the application is emailed to the C-suite for them to judge the user as a job canidate accordingly based off the information from the appliation sent by the canidate.
 
-Senario 2:
+Senario 2: The C-suit makes a descision and reply back to the canidate from a separate email, the canidate recieves the email informing them of the descision.
+
 
 # 6. Other preliminary life-cycle concepts
 
 ## Preliminary acquisition concept
-new:
+new: The solution to the system will be acquired by ellicitation and meetings to verify the prototypes from a represenative of the C-suite. Further features and constraints on them will be elicitated from the targeted demographic base of users. 
 
 The solution would be acquired as an update to the website that would be seamless swap out the old webpages updated one, the new webpages will be connected by adding navigation and redirects to include those websites in the directory path, while archiving the old design, code, and other unused assets. The ITS will be responsible for implementing the final product and archiving the legacy design and forms. The product will be verified by the company executive leadership or by a senior employee of the company. 
 
 ## Preliminary deployment concept
-The product manager will verify 
+The product manager will verify the solution by seeing a prototype demonstration of the solution. Then the c-suite will
 
 The solution would be acquired as an update to the website that would be seamless swap out the old webpages updated one, the new webpages will be connected by adding navigation and redirects to include those websites in the directory path, while archiving the old design, code, and other unused assets. The ITS will be responsible for implementing the final product and archiving the legacy design and forms. The product will be verified by the company executive leadership or by a senior employee of the company. 
 ## Preliminary support concept
