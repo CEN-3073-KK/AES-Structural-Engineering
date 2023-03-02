@@ -98,7 +98,6 @@ ii.	Hiring information, especially when there is a hiring campaign underway, wil
 
 AES uses Squarespace to host the website content and all of our portfolio that we want to share online. Additional content is stored within several systems in-house at AES, including Deltek Vantagepoint, Microsoft 365 Office, and local/cloud storage through a server where our company stores both technical business information. This information is exported when the website needs to be adapted or altered, or when more information needs to be added.
 
- 
 AES doesn’t track employees in any way, though they are required to input time and expenses for project and marketing related activities within Deltek Vantagepoint.
 
 # 4. Business operational requirements
@@ -140,7 +139,7 @@ The proposed system is an update to the website that will update the career and 
 
 The company is a firm that makes projects and produces products in the form of structural blueprints and consultations. Their business model are development and consultation serivces. 
 
-The software product's mode will be for marketing and user service.
+The software product's mode will be marketing and user service.
 
 ### user classes and other involved personnel
 The prospective employees will be providing the data in the improved application. 
@@ -164,19 +163,20 @@ Senario 2: The C-suit makes a descision and reply back to the canidate from a se
 # 6. Other preliminary life-cycle concepts
 
 ## Preliminary acquisition concept
-new: The solution to the system will be acquired by ellicitation and meetings to verify the prototypes from a represenative of the C-suite. Further features and constraints on them will be elicitated from the targeted demographic base of users. 
-
-The solution would be acquired as an update to the website that would be seamless swap out the old webpages updated one, the new webpages will be connected by adding navigation and redirects to include those websites in the directory path, while archiving the old design, code, and other unused assets. The ITS will be responsible for implementing the final product and archiving the legacy design and forms. The product will be verified by the company executive leadership or by a senior employee of the company. 
+The requirements to the system will be acquired by ellicitation and meetings from a represenative of the C-suite. Further features will be elicitated from the targeted demographic base of users. The new designs will be displayed as wireframes, these wireframe designs will be elicitated by the target demographic base of users, the product manager, and the C-Suite. Stake holder engagement will be controlled by constant elicitation and meeting that are similar in style to agile concepts. The production and verification requirements would be acquired by the product manager and the C-suite.
 
 ## Preliminary deployment concept
-The product manager will verify the solution by seeing a prototype demonstration of the solution. Then the c-suite will
+The product manager and a represenative from the C-suite will verify the requirements of the system. The product manager will verify the solution by seeing a prototype demonstration of the solution with all the user senarios and test cases. Then the C-suite will then further validate the solution by seeing another demonstration of the solution that the shows the efficency and resulting output of the solution. These wireframes will be verified by ellicitating the target demographic base of users, product manager, and finally the C-suite. 
 
-The solution would be acquired as an update to the website that would be seamless swap out the old webpages updated one, the new webpages will be connected by adding navigation and redirects to include those websites in the directory path, while archiving the old design, code, and other unused assets. The ITS will be responsible for implementing the final product and archiving the legacy design and forms. The product will be verified by the company executive leadership or by a senior employee of the company. 
+The solution would be delivered as an update to the website that would be seamless swap out the old webpages updated one, the new webpages will be connected by adding navigation and redirects to include those websites in the directory path, while archiving the old design, code, and other unused assets. The ITS will be responsible for implementing the final product and archiving the legacy design and forms. The product will be verified by the company executive leadership or by a senior employee of the company. 
+
+The product would be introduced as a new career page and new online applications. The business will announce this update to the public via a news article on the company website. The business will announce the update as well in their next career fair they attend.
+
 ## Preliminary support concept
 The support that is necessary for the product after release would be from the ITS and human resources teams to maintain, preserve, and run the webpage. The ITS would be providing maintenance by maintaining the webpages and website by maintaining the server running the webpage and updating the content and items. ITS would also be training human resources to use the new system. Human resources will be operating the page, receiving emails, and calls from the system by the users. 
 
 ## Preliminary retirement concept
-To retire the system is to either update to a better system or completely change the system altogether. When being retired, the designs would be archived and logged as design assets. The systems will redirect their links to the updated or new webpages.
+To retire the system is to either update to a better system or completely change the system altogether. When being retired, the designs, code, and retired systems would be archived and logged as "Legacy assets". The systems will redirect their links to the updated or new webpages, or website.
 
 # 7. Project Constraints
 The project shall consist of a development team of no more than 3 members. 
@@ -188,3 +188,4 @@ The project implementation should take no more than a month and should be finish
 
 ## Acronyms and abbreviations
 AES - Atlantic Engineering Services
+SE - Structural Engineer
