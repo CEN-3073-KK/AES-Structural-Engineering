@@ -188,4 +188,5 @@ The project implementation should take no more than a month and should be finish
 
 ## Acronyms and abbreviations
 AES - Atlantic Engineering Services
+
 SE - Structural Engineer
