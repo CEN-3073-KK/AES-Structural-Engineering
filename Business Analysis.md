@@ -1,15 +1,3 @@
-# Description
-The aespj.com website update is an improvement on the careers and application pages. The updated career page will provide further information about the company and position that prospective employees will apreciate and value. Meanwhile, the improved application pages will provide further optimal information about the prospective employee and their qualifications. 
-
-The primary bussiness objectives of this project are:
-
-* Increase amount of job applicants that are prospective employees
-
-* Further provide detailed information about job applicants
-
-* Increase man power to take on more jobs and projects.
-
-The aespj.com website update will improve hiring strategies that include application analytics, advertising, and showing requirements to be qualified for the position. 
 
 # 1. Introduction
 ## Business purpose
@@ -34,17 +22,17 @@ e.	Technicians: Technicians model the projects laying the design provided by the
 
 ## Definitions 
 
-* Structural engineering: The branch of engineering that deals with the design and analysis of structures.
+* Structural engineering: The branch of engineering that deals with the design and analysis of structures, they use mathematic calculations to simulate and determine the stability and stregth of structure for consultment for building codes, damage, and renovations or ensuring the building can withstand forces that they are naturally subjected to.
 
-* Civil engineering: The branch of engineering that deals with the design, construction, and maintenance of the built environment.
+* Civil engineering: The branch of engineering that deals with the design, construction, and maintenance of the built environment. Works with structural engineer to ensure stability and stregth of structure.
 
-* Construction engineering: The branch of engineering that focuses on the planning, design, and management of construction projects.
+* Construction engineering: The branch of engineering that focuses on the planning, design, and management of construction projects. Works with the structural engineer to ensure the product meets with in the standards of the project constraints.
 
-* Architecture: The art and science of designing buildings and other structures.
+* Architecture: The art and science of designing buildings and other structures. Structural engineers work with the architect to ensure and influence their designs to be structurally stable and strong. 
 
-* Building codes: Standards and regulations that specify the minimum requirements for the design and construction of buildings and other structures.
+* Building codes: Standards and regulations that specify the minimum requirements for the design and construction of buildings and other structures. Structural engineers 
 
-* job sites: construction sites or structures that need to be inspected for building code review and consultation.
+* Job sites: construction sites or structures that need to be inspected for building code review and consultation.
 
 ## Major stakeholders
 
